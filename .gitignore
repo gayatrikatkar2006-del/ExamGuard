@@ -1,0 +1,19 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Java / Kotlin / Maven
+backend/target/
+backend/.gradle/
+backend/build/
+
+# H2 local database
+backend/data/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
